@@ -18,3 +18,4 @@ var_str2 = str(12.5)
 
 print(type(var_str1))
 print(type(var_str2))
+
